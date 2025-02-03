@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="119" src=""  />
+<img align="right" height="119" src="https://frc-cdn.firstinspires.org/eventweb_frc/GameLogos/2025.png"  />
 
 ###
 
