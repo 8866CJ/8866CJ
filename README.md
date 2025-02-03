@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="119" src="https://frc-cdn.firstinspires.org/eventweb_frc/GameLogos/2025.png"  />
+<img align="right" height="119" src="https://images.squarespace-cdn.com/content/v1/63fa7cb8f5d48807c65dad6c/1726680782233-41B8DJL4AEQKCKFU4MDG/fd_frc_reefscape_logo_patch_full+color_rgb.png"  />
 
 ###
 
