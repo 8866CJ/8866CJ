@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Colby and I'm a Programmer, from Georgia</h2>
+<h2 align="left">Hi 👋! My name is Colby and I'm a Pingus, from Georgia</h2>
 
 ###
 
